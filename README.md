@@ -5,6 +5,9 @@
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50" height="50"/> <img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50"/> <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50"/> <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="50"
 height="50"/>
 
+#Contacto
+- Mi linkedin: https://www.linkedin.com/in/angelo-colmenares-314047333/
+
 <h4> Acerca de mi⤵️</h4>
 <ul>
   <li>Atencion Al Cliente 🗣️
